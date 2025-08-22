@@ -1,0 +1,24 @@
+# Site settings
+title: Tapas Pal
+author:
+  name: Tapas Pal
+  email: First Name[DOT]real[AT]gmail[DOT]com
+description: "Personal Website"
+
+
+# generate social links in footer
+social_links:
+   linkedin: tapas-pal-7b5a88b7
+   facebook: tapas.pal.144
+
+minima:
+  skin: classic
+
+# Build settings
+remote_theme: jekyll/minima
+#theme: jekyll/leap-day  
+#theme: minima
+#remote_theme: jekyll-theme-slate
+#  skin: dark
+
+  

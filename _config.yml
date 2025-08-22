@@ -1,15 +1,15 @@
 # Site settings
-title: Tapas Pal
+title: Vikas Srivastava
 author:
-  name: Tapas Pal
-  email: First Name[DOT]real[AT]gmail[DOT]com
+  name: Vikas Srivastava
+  email: vsv@nitw.ac.in
 description: "Personal Website"
 
 
 # generate social links in footer
 social_links:
-   linkedin: tapas-pal-7b5a88b7
-   facebook: tapas.pal.144
+   linkedin: 
+   facebook: 
 
 minima:
   skin: classic
